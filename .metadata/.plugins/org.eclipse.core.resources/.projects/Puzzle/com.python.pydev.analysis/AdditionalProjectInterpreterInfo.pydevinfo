@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/fabian/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Puzzle/com.python.pydev.analysis/v2_indexcache
+cfg|1664382439375438826|/home/fabian/eclipse-workspace/Puzzle/cfg.py
+GamePuzzle|1664475066820686667|/home/fabian/eclipse-workspace/Puzzle/GamePuzzle.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=cfg
+3=/home/fabian/eclipse-workspace/Puzzle/GamePuzzle.py
+1=/home/fabian/eclipse-workspace/Puzzle/cfg.py
+4=GamePuzzle
+-- END DICTIONARY
+-- START TREE 1
+15
+bac|1|BACKGROUNDCOLOR!1^16#1*19@
+bla|1|BLACK!1^20#1*19@
+blu|1|BLUE!1^19#1*19@
+cre|1|CreateBoard!3^45#5*34@
+fon|1|FONTPATH!1^14#1*19@
+fps|1|FPS!1^22#1*19@
+get|1|GetImagePath!3^62#5*34@
+isg|1|isGameOver!3^18#5*34@
+mai|1|main!3^110#5*34@
+mov|4|moveL!3^30#5*34@moveU!3^40#5*34@moveD!3^35#5*34@moveR!3^25#5*34@
+pri|1|PRICTURE_ROOT_DIR!1^12#1*19@
+ran|1|RANDNUM!1^24#1*19@
+red|1|RED!1^18#1*19@
+sce|1|SCEEENSIZE!1^10#1*19@
+sho|2|ShowEnd!3^67#5*34@ShowStartInterface!3^82#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

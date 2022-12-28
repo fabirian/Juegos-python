@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/fabian/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Guest the number/com.python.pydev.analysis/v2_indexcache
+Game.__init__|1662734957824894031|/home/fabian/eclipse-workspace/Guest the number/Game/__init__.py
+Game.Guess|1662735574718213972|/home/fabian/eclipse-workspace/Guest the number/Game/Guess.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Game.Guess
+1=/home/fabian/eclipse-workspace/Guest the number/Game/Guess.py
+-- END DICTIONARY
+-- START TREE 1
+5
+end|1|end!1^12#1*19@
+gue|1|guess!1^18#1*19@
+sta|1|start!1^10#1*19@
+tex|1|text!1^21#5*19@
+val|1|value!1^14#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/fabian/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Skkiper/com.python.pydev.analysis/v2_indexcache
+Game6|1664476793200600992|/home/fabian/eclipse-workspace/Skkiper/Game6.py
+cfg|1664475686820655825|/home/fabian/eclipse-workspace/Skkiper/cfg.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+4=Game6
+2=cfg
+1=/home/fabian/eclipse-workspace/Skkiper/cfg.py
+6=ObstacleClass
+3=/home/fabian/eclipse-workspace/Skkiper/Game6.py
+5=SkierClass
+7=SkierClass.__init__
+-- END DICTIONARY
+-- START TREE 1
+6
+bgm|1|BGMPATH!1^26#1*19@
+fon|1|FONTPATH!1^27#1*19@
+fps|1|FPS!1^9#1*19@
+obs|2|OBSTICE_PATH!1^24#1*19@ObstacleClass!3^49#7*33@
+scr|1|SCREENSIZE!1^10#1*19@
+ski|2|SKIER_IMAGE_PATHS!1^19#1*19@SkierClass!3^13#7*33@
+-- END TREE
+-- START TREE 2
+5
+__i|2|__init__!5&3^14#9*34@__init__!6&3^50#9*34@
+dir|1|direction!7&3^17#9*35@
+ima|2|image!7&3^19#9*35@imagepaths!7&3^18#9*35@
+rec|1|rect!7&3^20#9*35@
+spe|1|speed!7&3^22#9*35@
+-- END TREE
